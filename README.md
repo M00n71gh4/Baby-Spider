@@ -12,8 +12,10 @@ The PIR sensor detects movement and signals the Arduino. When motion is detected
 - Arduino Uno
 - HC-SR501 PIR motion sensor
 - SG90 servo motor
-- Battery pack
+- Battery pack (6 x AA)
 - Halloween spider decoration
+- Easter eg
+- Switch
 
 ## Connections
 
