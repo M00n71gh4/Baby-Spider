@@ -43,3 +43,7 @@ See `spider.ino`.
 ## Project status
 
 Completed – built as a Halloween decoration.
+
+## Schematics
+
+![Spider Baby Schematic](https://raw.githubusercontent.com/M00n71gh4/Baby-Spider/main/img/Spider-Baby-Schematic.png)
