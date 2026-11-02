@@ -22,6 +22,8 @@ The PIR sensor detects movement and signals the Arduino. When motion is detected
 | Component | Arduino pin |
 |---|---|
 | Servo signal | A0 |
+| Servo VCC | 5V |
+| Servo GND | GND |
 | PIR signal | D4 |
 | PIR VCC | 5V |
 | PIR GND | GND |
