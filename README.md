@@ -1,6 +1,7 @@
 # Halloween Spider – Arduino Motion-Activated Prop
 
 A homemade Halloween decoration using an Arduino Uno, PIR motion sensor and SG90 servo motor.
+### Video demo: https://youtube.com/shorts/En7Yf2VQXI0
 
 ## How it works
 
